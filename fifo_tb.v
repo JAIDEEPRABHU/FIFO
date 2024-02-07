@@ -1,3 +1,5 @@
+//Author : Jaideep
+
 `timescale     10 ps/ 10 ps  
 
 `define          DELAY 10  
